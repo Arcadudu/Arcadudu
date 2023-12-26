@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Arcadudu
 - 👀 I’m interested in mobile development
-- 🌱 I’m currently learning Android native app dev  
 - 💞️ I’m looking to collaborate on Android app development
 - 📫 How to reach me: muratov.arckady@yandex.ru
 
